@@ -7,11 +7,11 @@ const ProjectPage = () => {
     <div className="project-PAGE">
       <div className="div">
         <div className="overlap">
-          <img
-            className="graystone-white"
-            alt="Graystone white"
-            src="https://c.animaapp.com/6KikUNbp/img/graystone-white-1@2x.png"
-          />
+        <Link href="/"> <img
+              className="graystone-white"
+              alt="Graystone white"
+              src="https://c.animaapp.com/6h31uVPj/img/graystone-white-1@2x.png"
+            /> </Link>
           <div className="group">
             <div className="group-2">
             <Link href="AboutUs"><div className="text-wrapper">About Us</div></Link>

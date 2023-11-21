@@ -18,11 +18,11 @@ const ContactUs = () => {
                 <div className="text-wrapper-3">Property</div>
               </Link>
             </div>
-            <img
+           <Link href="/"> <img
               className="graystone-white"
               alt="Graystone white"
               src="https://c.animaapp.com/6h31uVPj/img/graystone-white-1@2x.png"
-            />
+            /> </Link>
             <div className="group-2">
               <p className="p">DEVELOPMENTS | INTERIORS | BESPOKE PROJECTS</p>
             </div>

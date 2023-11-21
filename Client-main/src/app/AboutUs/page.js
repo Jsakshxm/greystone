@@ -6,11 +6,11 @@ const AboutUsPage = () => {
     <div className="about-US-page">
       <div className="div">
         <div className="overlap">
-          <img
-            className="graystone-white"
-            alt="Graystone white"
-            src="https://c.animaapp.com/iUpDz7wD/img/graystone-white-1@2x.png"
-          />
+        <Link href="/"> <img
+              className="graystone-white"
+              alt="Graystone white"
+              src="https://c.animaapp.com/6h31uVPj/img/graystone-white-1@2x.png"
+            /> </Link>
           <div className="group">
             <p className="text-wrapper">DEVELOPMENTS | INTERIORS | BESPOKE PROJECTS</p>
           </div>
